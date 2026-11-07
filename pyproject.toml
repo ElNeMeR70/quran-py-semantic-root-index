@@ -1,0 +1,7 @@
+[project]
+name = "quran-py-semantic-root-index"
+version = "1.0.0"
+description = "Quranic Trilateral & Quadrilateral Root Inverted Index (المعجم المفهرس للجذور القرآنية الثلاثية والرباعية)"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{ name = "Mahmoud ElNemer", email = "sultanelnemer@gmail.com" }]
